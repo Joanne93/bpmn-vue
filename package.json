@@ -1,0 +1,44 @@
+{
+  "name": "vue-bpmn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bpmn-js": "^6.0.7",
+    "bpmn-js-properties-panel": "^0.33.1",
+    "camunda-bpmn-moddle": "^4.3.0",
+    "core-js": "^3.6.4",
+    "echarts": "^4.7.0",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0",
+    "min-dom": "^0.2.0",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2",
+    "tiny-svg": "^0.1.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "vue-template-compiler": "^2.6.11",
+    "xml-loader": "^1.2.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential"
+    ],
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
