@@ -1,4 +1,4 @@
-# vue-bpmn项目
+# vue-bpmn
 
 ## Project setup
 ```
