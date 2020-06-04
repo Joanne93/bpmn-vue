@@ -17,7 +17,7 @@ import './assets/icon/iconfont.css'
 import './assets/icon/iconfont'
 
 
-// import './main.less'
+import './main.less'
 new Vue({
   render: h => h(App),
 }).$mount('#app')

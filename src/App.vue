@@ -8,7 +8,7 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import Bpmn from './components/Bpmn1.vue'
+import Bpmn from './components/Bpmn11.vue'
 // import './assets/diagram-js.css'
 // import './assets/bpmn-font/css/bpmn.css'
 // import './assets/bpmn-font/css/bpmn-codes.css'

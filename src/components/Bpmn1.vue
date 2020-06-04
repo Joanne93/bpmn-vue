@@ -27,7 +27,7 @@ export default {
   },
   mounted() {
     this.init();
-  },
+  }, 
   beforeDestroy: function() {
     this.bpmnModeler.destroy();
   },
